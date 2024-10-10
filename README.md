@@ -123,11 +123,11 @@ Reference: [`The Starknet Foundry Book`](https://foundry-rs.github.io/starknet-f
 Clone the repo
 
 ```bash
-git clone .....
+git clone https://github.com/Cyfrin/2024-10-starknet-auction.git
 ```
 
 ```bash
-cd ....
+cd 2024-10-starknet-auction
 ```
 
 Build and run tests
